@@ -1,0 +1,8 @@
+{
+  "monospaceFontFamily": "JetBrains Mono,Microsoft YaHei",
+  "textFontFamily": "Microsoft YaHei",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "cssTheme": "Tokyo Night"
+}
