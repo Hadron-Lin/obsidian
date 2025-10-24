@@ -8,7 +8,7 @@ $$
 
 
 ![[Pasted image 20251005120844.png]]
-
+可以使用多次.
 
 ![[Pasted image 20251022153226.png|500]]
 >[!question]

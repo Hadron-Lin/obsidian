@@ -2,6 +2,9 @@
 tags:
   - application
   - method
+  - element
+previous:
+  - "[[MOSFET工作原理]]"
 ---
 
 # 放大器的应用

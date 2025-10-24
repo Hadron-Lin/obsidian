@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Microsoft YaHei",
   "baseFontSize": 13,
   "baseFontSizeAction": true,
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "theme": "system"
 }

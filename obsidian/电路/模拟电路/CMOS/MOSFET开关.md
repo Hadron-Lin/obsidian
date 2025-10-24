@@ -2,6 +2,8 @@
 tags:
   - application
   - method
+previous:
+  - "[[MOSFET工作原理]]"
 ---
 # 开关
 利用[[MOSFET工作原理]],使用**SR模型**可以制作MOSFET开关.
