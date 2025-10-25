@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9050ece31073ee44",
+        "id": "de3e2949e5858d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "542d8d3e2abe9713",
+            "id": "ca7293113f959fd7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "电路/数字电路/信息表示.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "信息表示"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "定比",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/基础课程/微积分/微积分学教程/一元函数/魏尔斯特拉斯第二定理.md",
+                "file": "电路/数字电路/信息表示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "魏尔斯特拉斯第二定理 的反向链接列表"
+              "title": "信息表示 的反向链接列表"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/基础课程/微积分/微积分学教程/一元函数/魏尔斯特拉斯第二定理.md",
+                "file": "电路/数字电路/信息表示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "魏尔斯特拉斯第二定理 的出链列表"
+              "title": "信息表示 的出链列表"
             }
           },
           {
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/基础课程/微积分/微积分学教程/一元函数/魏尔斯特拉斯第二定理.md",
+                "file": "电路/数字电路/信息表示.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "魏尔斯特拉斯第二定理 的大纲"
+              "title": "信息表示 的大纲"
             }
           },
           {
@@ -162,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,59 +178,60 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "542d8d3e2abe9713",
+  "active": "ca7293113f959fd7",
   "lastOpenFiles": [
+    "电路/数字电路/模型机.md",
+    "电路/数字电路/逻辑运算.md",
     "电路/模拟电路/运放电路/运算放大器.md",
     "电路/模拟电路/运放电路/运算电路.md",
-    "电路/模拟电路/运放电路/滤波器.md",
+    "电路/模拟电路/运放电路/放大电路.md",
+    "attachment/Pasted image 20251025203008.png",
+    "attachment/Pasted image 20251025202955.png",
+    "attachment/Pasted image 20251025202014.png",
+    "attachment/Pasted image 20251025201958.png",
     "电路/电路基本定理/戴维南定理.md",
-    "物理/电磁学/磁场/亥姆霍兹线圈.md",
-    "物理/电磁学/磁场/磁场通量定理.md",
-    "物理/电磁学/磁场/磁场环路定理.md",
-    "物理/电磁学/磁场/比奥-萨法尔定律.md",
-    "物理/电磁学/磁场/安培定律.md",
-    "数学/数学竞赛/不等式/微分不等式/基本方法/常数变量化.md",
-    "数学/数学竞赛/不等式/微分不等式/基本方法/拉格朗日运用.md",
-    "数学/数学竞赛/不等式/积分不等式/基本方法/构造函数.md",
-    "数学/数学竞赛/不等式/积分不等式/基本方法/构造分部积分.md",
-    "数学/数学竞赛/不等式/积分不等式/基本方法/柯西积分不等式.md",
-    "数学/数学竞赛/不等式/积分不等式/基本方法/分段放缩.md",
-    "数学/数学竞赛/不等式/积分不等式/基本方法/拆分区间.md",
-    "数学/数学竞赛/多元积分/曲线曲面积分/基本方法/投影法.md",
-    "数学/数学竞赛/多元积分/曲线曲面积分/基本方法/对称性.md",
-    "数学/数学竞赛/多元积分/多重积分/基本方法/积分换序.md",
-    "数学/数学竞赛/多元积分/多重积分/基本方法/对称化简化计算.md",
-    "数学/数学竞赛/多元积分/多重积分/三重积分/基本方法/三重积分对称性.md",
-    "数学/数学竞赛/多元积分/多重积分/基本方法/几何意义.md",
-    "数学/数学竞赛/多元积分/多重积分/三重积分/基本方法/几何意义.md",
-    "数学/数学竞赛/多元积分/多重积分/基本方法/交换次序.md",
-    "数学/数学竞赛/多元积分/多重积分/基本方法/换元法.md",
-    "数学/数学竞赛/多元积分/多重积分/基本方法/格林公式求二重积分.md",
+    "电路/电路基本定理/诺顿定理.md",
+    "电路/电路基本定理/线性电路.md",
+    "attachment/Pasted image 20251025195036.png",
+    "电路/模拟电路/电路分析/频率响应.md",
+    "电路/模拟电路/电路分析/阻抗.md",
+    "attachment/Pasted image 20251025192331.png",
+    "attachment/Pasted image 20251025192318.png",
+    "attachment/Pasted image 20251025192304.png",
+    "电路/模拟电路/电路分析/复指数分析法.md",
+    "电路/模拟电路/CMOS/CMOS.md",
+    "电路/数字电路/数字抽象/加法器.md",
+    "电路/数字电路/数字抽象/逻辑运算律.md",
+    "电路/数字电路/信息表示.md",
+    "电路/模拟电路/CMOS/MOSFET放大器.md",
+    "电路/模拟电路/CMOS/MOSFET工作原理.md",
+    "电路/模拟电路/CMOS/PN结的偏置.md",
+    "电路/模拟电路/CMOS/MOSFET开关.md",
+    "电路/电路基本定理/叠加定理.md",
+    "电路/模拟电路/电路分析/滤波器.md",
+    "电路/模拟电路/运放电路/反馈.md",
+    "数学/基础课程/解析几何/几何空间的度量/定比分点.md",
+    "数学/数学竞赛/无穷级数/傅里叶级数/基础/正交性.md",
+    "数学/数学竞赛/无穷级数/傅里叶级数/基础/傅里叶级数.md",
+    "物理/电磁学/电流场/电流动力学方程.md",
+    "attachment/Pasted image 20251025140506.png",
+    "attachment/Pasted image 20251025135100.png",
+    "Excalidraw/NotoSansSC-Regular.ttf",
+    "Excalidraw/梦源宋体-W5.ttc",
+    "Excalidraw/寒蝉正楷体.ttf",
+    "Excalidraw/LINESeedSans_Rg.ttf",
+    "Excalidraw/CJK Fonts",
+    "Excalidraw/新建文件夹",
     "数学/数学竞赛/一元积分/基本方法/一元积分基本方法.canvas",
     "数学/数学竞赛/一元积分/基本方法/未命名.base",
-    "attachment/Pasted image 20251024210856.png",
-    "attachment/Pasted image 20251024210312.png",
-    "attachment/Pasted image 20251024210252.png",
-    "attachment/Pasted image 20251024192228.png",
-    "attachment/Pasted image 20251024184709.png",
-    "attachment/Pasted image 20251024184003.png",
-    "attachment/Pasted image 20251024183932.png",
     "数学/基础课程/概率论/多维随机变量/多维随机变量分布/多元正态分布",
     "数学/基础课程/概率论/多维随机变量/多维随机变量分布",
     "数学/基础课程/概率论/多维随机变量",
-    "attachment/Pasted image 20251024164637.png",
-    "attachment/Pasted image 20251024155002.png",
-    "attachment/Pasted image 20251024144602.png",
-    "电路/模拟电路/CMOS",
-    "Excalidraw/LINESeedSans_Rg.ttf",
-    "物理/电磁学/电磁学基本常数",
     "Excalidraw/未命名.canvas",
-    "Excalidraw/寒蝉正楷体.ttf",
-    "Excalidraw/梦源宋体-W5.ttc",
-    "数学/基础课程/微积分/微积分学教程/一元函数",
     "未命名.canvas"
   ]
 }

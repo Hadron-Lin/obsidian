@@ -10,9 +10,6 @@ links:
   -
 ---
 
-
-
-
 # 基础逻辑
 N-type:$V_{G}>V_{S}$
 P-type:$V_{G}<V_{S}$
@@ -95,6 +92,7 @@ F=\overline{AB+C}=(\overline{A}+\overline{B})\cdot \overline{C}
 \end{align}
 $$
 
+---
 
 ![[Pasted image 20251024184709.png|650]]
 $$
