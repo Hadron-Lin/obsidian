@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de3e2949e5858d8b",
+        "id": "fb36ab27e65d3011",
         "type": "tabs",
         "children": [
           {
-            "id": "ca7293113f959fd7",
+            "id": "ecf0ababd8ddec28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路/数字电路/信息表示.md",
+                "file": "数学/基础课程/解析几何/曲面/柱面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息表示"
+              "title": "柱面"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 206.5
   },
   "right": {
     "id": "0344e99f2048f017",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电路/数字电路/信息表示.md",
+                "file": "电路/模拟电路/运放电路/反馈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "信息表示 的反向链接列表"
+              "title": "反馈 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电路/数字电路/信息表示.md",
+                "file": "电路/模拟电路/运放电路/反馈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "信息表示 的出链列表"
+              "title": "反馈 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电路/数字电路/信息表示.md",
+                "file": "电路/模拟电路/运放电路/反馈.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "信息表示 的大纲"
+              "title": "反馈 的大纲"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 716.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,55 +183,93 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ca7293113f959fd7",
+  "floating": {
+    "id": "fb59650718f821aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fe317f8531bac9da",
+        "type": "window",
+        "children": [
+          {
+            "id": "7469a2b38db7eda7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2bf831dd82c145e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "习题库管理/题目列表/数学竞赛红本题目列表.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "数学竞赛红本题目列表"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1294,
+        "y": 54,
+        "width": 390,
+        "height": 746,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ecf0ababd8ddec28",
   "lastOpenFiles": [
-    "电路/数字电路/模型机.md",
-    "电路/数字电路/逻辑运算.md",
-    "电路/模拟电路/运放电路/运算放大器.md",
-    "电路/模拟电路/运放电路/运算电路.md",
+    "数学/基础课程/解析几何/曲面/旋转面.md",
+    "数学/基础课程/解析几何/曲面/柱面.md",
+    "数学/基础课程/解析几何/曲面/锥面.md",
+    "attachment/Pasted image 20251026170903.png",
+    "attachment/Pasted image 20251026165728.png",
+    "attachment/Pasted image 20251026163936.png",
+    "数学/基础课程/微积分/曲线曲面积分/基本元素/曲面元.md",
+    "数学/基础课程/解析几何/直线与平面/直线方程.md",
+    "数学/数学竞赛/多元积分/多重积分/基本方法/柱面坐标,球面坐标.md",
+    "数学/基础课程/解析几何/曲面",
+    "数学/基础课程/解析几何/直线与平面/平面方程.md",
+    "内积.md",
+    "数学/基础课程/解析几何/几何空间的度量/拉格朗日恒等式.md",
+    "数学/基础课程/解析几何/直线与平面",
+    "数学/基础课程/解析几何/几何空间的度量/混合积.md",
+    "数学/基础课程/解析几何/几何空间的度量/叉乘.md",
+    "数学/基础课程/解析几何/几何空间的度量/定比分点.md",
+    "数学/基础课程/解析几何/几何空间的度量/点乘.md",
+    "杂谈/学习理论/习题.md",
+    "杂谈/学习理论/数学学习总论.md",
+    "杂谈/学习理论/数学书籍阅读.md",
+    "杂谈/学习理论/记笔记原则.md",
+    "习题库管理/题目列表/数学竞赛红本题目列表.md",
+    "电路/模拟电路/运放电路/反馈.md",
     "电路/模拟电路/运放电路/放大电路.md",
+    "电路/模拟电路/运放电路/运算电路.md",
+    "数学/数学竞赛/一元积分/基本方法/沃里斯公式.md",
+    "数学/数学竞赛/一元积分/基本方法/递推式.md",
+    "数学/数学竞赛/一元积分/基本方法/复数积分.md",
+    "数学/数学竞赛/一元积分/基本方法/根式代换.md",
+    "数学/数学竞赛/一元积分/基本方法/一元积分基本方法.canvas",
+    "attachment/Pasted image 20251025210713.png",
     "attachment/Pasted image 20251025203008.png",
     "attachment/Pasted image 20251025202955.png",
     "attachment/Pasted image 20251025202014.png",
     "attachment/Pasted image 20251025201958.png",
-    "电路/电路基本定理/戴维南定理.md",
-    "电路/电路基本定理/诺顿定理.md",
-    "电路/电路基本定理/线性电路.md",
     "attachment/Pasted image 20251025195036.png",
-    "电路/模拟电路/电路分析/频率响应.md",
-    "电路/模拟电路/电路分析/阻抗.md",
     "attachment/Pasted image 20251025192331.png",
-    "attachment/Pasted image 20251025192318.png",
-    "attachment/Pasted image 20251025192304.png",
-    "电路/模拟电路/电路分析/复指数分析法.md",
-    "电路/模拟电路/CMOS/CMOS.md",
-    "电路/数字电路/数字抽象/加法器.md",
-    "电路/数字电路/数字抽象/逻辑运算律.md",
-    "电路/数字电路/信息表示.md",
-    "电路/模拟电路/CMOS/MOSFET放大器.md",
-    "电路/模拟电路/CMOS/MOSFET工作原理.md",
-    "电路/模拟电路/CMOS/PN结的偏置.md",
-    "电路/模拟电路/CMOS/MOSFET开关.md",
-    "电路/电路基本定理/叠加定理.md",
-    "电路/模拟电路/电路分析/滤波器.md",
-    "电路/模拟电路/运放电路/反馈.md",
-    "数学/基础课程/解析几何/几何空间的度量/定比分点.md",
-    "数学/数学竞赛/无穷级数/傅里叶级数/基础/正交性.md",
-    "数学/数学竞赛/无穷级数/傅里叶级数/基础/傅里叶级数.md",
-    "物理/电磁学/电流场/电流动力学方程.md",
-    "attachment/Pasted image 20251025140506.png",
-    "attachment/Pasted image 20251025135100.png",
     "Excalidraw/NotoSansSC-Regular.ttf",
     "Excalidraw/梦源宋体-W5.ttc",
     "Excalidraw/寒蝉正楷体.ttf",
     "Excalidraw/LINESeedSans_Rg.ttf",
     "Excalidraw/CJK Fonts",
     "Excalidraw/新建文件夹",
-    "数学/数学竞赛/一元积分/基本方法/一元积分基本方法.canvas",
     "数学/数学竞赛/一元积分/基本方法/未命名.base",
     "数学/基础课程/概率论/多维随机变量/多维随机变量分布/多元正态分布",
-    "数学/基础课程/概率论/多维随机变量/多维随机变量分布",
-    "数学/基础课程/概率论/多维随机变量",
     "Excalidraw/未命名.canvas",
     "未命名.canvas"
   ]
