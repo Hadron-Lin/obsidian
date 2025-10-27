@@ -94,7 +94,7 @@ $$
 
 ---
 
-![[Pasted image 20251024184709.png|650]]
+![[Pasted image 20251024184709.png|700]]
 $$
 \begin{align}
 高态:4.9-3.5=1.4V \\
@@ -104,7 +104,25 @@ $$
 
 
 
+---
 
+![[Pasted image 20251026213811.png|400]]
+(a)
+$$
+\begin{align}
+Y=\overline{ABC} \\
+\implies下端网络是串联
+\end{align}
+$$
+![[Pasted image 20251026214503.png|300]]
+(b)
+$$
+\begin{align}
+Y=\overline{A+B+C+D} \\
+\implies下端网络是并联
+\end{align}
+$$
 
+![[Pasted image 20251026223805.png|300]]
 
 
