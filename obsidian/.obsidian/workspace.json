@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/数学竞赛/无穷级数/常数项级数/敛散性判别方法/比较判别法.md",
+                "file": "数学/数学竞赛/极限,函数与连续/基本方法/Stirling公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "比较判别法"
+              "title": "Stirling公式"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "不等式",
+                "query": "点火",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5,
-    "collapsed": true
+    "width": 683.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,10 +212,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 195,
-        "width": 838,
-        "height": 751,
+        "x": 1446,
+        "y": 234,
+        "width": 404,
+        "height": 758,
         "maximize": false,
         "zoom": 0
       }
@@ -224,8 +223,27 @@
   },
   "active": "6721b18b186f12d3",
   "lastOpenFiles": [
+    "数学/数学竞赛/一元积分/基本方法/沃里斯公式.md",
+    "数学/数学竞赛/极限,函数与连续/基本方法/Stirling公式.md",
+    "attachment/Pasted image 20251029172541.png",
     "习题库管理/题目列表/数学竞赛红本题目列表.md",
+    "数学/数学竞赛/极限,函数与连续/基本方法/数列极限/误差估计.md",
+    "数学/数学竞赛/不等式/积分不等式/基本方法/拆分区间.md",
+    "数学/数学竞赛/不等式/积分不等式/基本方法/分段估计.md",
+    "数学/数学竞赛/一元积分/基本方法/一元积分基本方法.canvas",
     "数学/数学竞赛/无穷级数/常数项级数/敛散性判别方法/比较判别法.md",
+    "数学/数学竞赛/极限,函数与连续/基本方法/无穷小替换.md",
+    "attachment/Pasted image 20251029160036.png",
+    "数学/数学竞赛/无穷级数/常数项级数/敛散性判别方法/比值审敛法.md",
+    "数学/数学竞赛/无穷级数/常数项级数/敛散性判别方法/凑差分.md",
+    "attachment/Pasted image 20251029155130.png",
+    "attachment/Pasted image 20251029153927.png",
+    "attachment/Pasted image 20251029152957.png",
+    "attachment/Pasted image 20251029152532.png",
+    "attachment/Pasted image 20251029152315.png",
+    "电路/模拟电路/运放电路/运算电路.md",
+    "电路/讨论课/第一次讨论课.md",
+    "电路/讨论课",
     "attachment/Pasted image 20251028171405.png",
     "数学/数学竞赛/不等式/积分不等式/基本方法/转化为二重积分.md",
     "数学/数学竞赛/极限,函数与连续/基本方法/数列极限/单调有界准则.md",
@@ -235,9 +253,6 @@
     "数学/数学竞赛/极限,函数与连续/基本方法/夹逼准则.md",
     "attachment/Pasted image 20251028153135.png",
     "attachment/Pasted image 20251028151500.png",
-    "attachment/Pasted image 20251028150833.png",
-    "attachment/Pasted image 20251028150359.png",
-    "attachment/Pasted image 20251028150118.png",
     "数学/数学竞赛/极限,函数与连续/基本方法/Stolz.md",
     "数学/数学竞赛/极限,函数与连续/高阶视角/基本求极限方法和余项计算.md",
     "数学/基础课程/微积分/介值定理.md",
@@ -247,29 +262,14 @@
     "数学/数学竞赛/无穷级数/常数项级数/巴塞尔问题.md",
     "数学/数学竞赛/无穷级数/常数项级数/敛散性判别方法/根植审敛法.md",
     "数学/数学竞赛/无穷级数/傅里叶级数/基础/傅里叶级数.md",
-    "数学/数学竞赛/极限,函数与连续/基本方法/数列极限/误差估计.md",
-    "数学/数学竞赛/极限,函数与连续/基本方法/数列极限/欧拉常数.md",
     "数学/数学竞赛/无穷级数/常数项级数/调和级数",
-    "attachment/Pasted image 20251028142208.png",
-    "数学/数学竞赛/极限,函数与连续/基本方法/拟合法.md",
-    "attachment/Pasted image 20251028140012.png",
-    "attachment/Pasted image 20251028135956.png",
-    "attachment/Pasted image 20251028135935.png",
-    "数学/数学竞赛/极限,函数与连续/基本方法/递推式.md",
-    "数学/数学竞赛/极限,函数与连续/基本方法/拆项的艺术.md",
-    "数学/数学竞赛/极限,函数与连续/基本方法/定积分的定义.md",
-    "数学/数学竞赛/极限,函数与连续/基本方法/未归类.md",
-    "数学/基础课程/微积分/微积分学教程/极限论/极限定义.md",
     "数学/基础课程/微积分/微积分学教程/极限论",
-    "数学/数学竞赛/无穷级数/常数项级数/敛散性判别方法/比值审敛法.md",
-    "数学/数学竞赛/一元积分/基本方法/一元积分基本方法.canvas",
     "数学/基础课程/解析几何/曲面",
     "数学/基础课程/解析几何/直线与平面",
     "Excalidraw/NotoSansSC-Regular.ttf",
     "Excalidraw/梦源宋体-W5.ttc",
     "Excalidraw/寒蝉正楷体.ttf",
     "Excalidraw/LINESeedSans_Rg.ttf",
-    "Excalidraw/CJK Fonts",
     "Excalidraw/未命名.canvas",
     "未命名.canvas"
   ]
